@@ -3,7 +3,7 @@ Oleh: Tsanaativa Vinnera
 
 ## Cara run website
 
-Buka folder rakamin-qwords-ci pada cmd, kemudian masukkan perintah berikut
+Clone repository ini, buka folder rakamin-qwords-ci pada cmd, kemudian masukkan perintah berikut:
 
 ```php serve spark```
 
