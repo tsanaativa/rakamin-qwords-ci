@@ -1,9 +1,12 @@
-# CodeIgniter 4 Framework
+# Redesign Landing Page (Final Project Qwords Fullstack Developer Project Based Internship Rakamin Academy) 
+Oleh: Tsanaativa Vinnera
 
 ## Cara run website
 
 Buka folder rakamin-qwords-ci pada cmd, kemudian masukkan perintah berikut
+
 ```php serve spark```
+
 Kemudian, website dapat diakses di localhost:8080
 
 ## Tech stack yang digunakan 
